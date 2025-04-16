@@ -27,13 +27,13 @@ Editar
 
 ### 📌 Faturamento por Loja
 
-![Faturamento por Loja](images/grafico_faturamento.png)
+Faturamento por Loja
 
 - A **Loja 1** lidera em faturamento, com destaque significativo sobre a **Loja 4**, que apresentou o menor desempenho.
 
 ### 🛒 Produtos Mais e Menos Vendidos
 
-![Produtos Vendidos](images/produtos_vendidos.png)
+Produtos Vendidos
 
 - Identificamos, por loja, os produtos com maior e menor volume de vendas. Essas informações podem embasar decisões de mix de produtos.
 
